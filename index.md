@@ -22,8 +22,8 @@ My goal is to develop a system that maximizes benefits for users and make my tec
     * Development of a sensor-based mental ward symptom exacerbation detection model.
   
 * Gachon univ (2017/03 ~ 2023/02)
-  * Healthcare Managment (Major)
-  * Computer Science (Double Major)
+  * Healthcare Managment (bachelor's degree)
+  * Computer Science (bachelor's degree)
 
 <br/>
 
