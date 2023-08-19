@@ -1,7 +1,9 @@
 ---
-layout: portfolio
+layout: post
 title:  "Conference"
 info: "참여 컨퍼런스"
+tech: "python"
+type: Toy 
 ---
 
 ## Conference No.1
