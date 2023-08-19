@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conference No.1"
+title: "Conference 1"
 info: "참여 컨퍼런스"
 tech: "python"
 type: G
