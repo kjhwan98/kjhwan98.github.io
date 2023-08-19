@@ -1,7 +1,7 @@
 # Site settings
 title: UXC LAB Researcher
-baseurl: " "
-url: https://kjhwan98.github.io/
+baseurl: ""
+url: "https://kjhwan98.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
@@ -23,7 +23,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/jaehwan-kim-25a188280 
+  linkedin: "https://www.linkedin.com/in/jaehwankim"
   pinterest:
   reddit:
   soundcloud:
