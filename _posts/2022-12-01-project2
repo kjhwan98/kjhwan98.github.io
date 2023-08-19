@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Project-2"
+info: "병원 과제"
+tech: "Python"
+type: B Company
+---
+
+## Project 2
+### 주제: 정신병동에서의 환자행동 분석
+SOL: Development of a sensor-based mental ward symptom exacerbation detection model
