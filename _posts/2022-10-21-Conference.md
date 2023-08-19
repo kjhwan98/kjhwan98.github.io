@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Conference"
+title: "Conference No.1"
 info: "참여 컨퍼런스"
 tech: "python"
-type: Toy 
+type: G
 ---
 
 ## Conference No.1
