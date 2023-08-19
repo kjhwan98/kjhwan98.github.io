@@ -9,5 +9,5 @@ type: G
 ## Conference No.1
 ### 인터넷 정보학회 추계학술 대회 (2022.10)
 주제: 에너지수요이전을 위한 에너지사용예측 모델 연구
-<br/><img src = "/img/con1.jpg" width="400" height="300">
+<br/><img src = "img/con1.jpg" width="400" height="300">
 
