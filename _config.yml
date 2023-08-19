@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: JaeHwan KIM
-  desc: Hello, I am studying for a master degree in the Department of Software Convergence at KyungHee University.
+  desc: Hello, I am studying for a master's degree in the Department of Software Convergence at KyungHee University.
   email: jhwankim@khu.ac.kr
   selfie: assets/img/prof.jpg
 
