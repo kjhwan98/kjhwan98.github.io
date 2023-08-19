@@ -1,13 +1,13 @@
 # Site settings
 title: UXC LAB
-baseurl: " "
+baseurl: "https://kjhwan98.github.io/"
 url: "https://kjhwan98.github.io/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: JaeHwan KIM
-  desc: Hello nice to meet you
+  desc: Hello, I am studying for a master degree in the Department of Software Convergence at KyungHee University.
   email: jhwankim@khu.ac.kr
   selfie: assets/img/여권.jpg
 
