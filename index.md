@@ -10,10 +10,17 @@ My goal is to develop a system that maximizes benefits for users and make my tec
 <br/>
 
 # Career
+* User eXperience Computing Lab (2023/09 ~)
+  * AI researcher
+ 
+* Kyunghee univ (2023/09 ~ )
+   * Software Convergence (Master's course)
+
 * Cognative Computing Lab (2022.04 ~ 2023.04)
   * AI researcher
     * Development of Demand Transfer Recommendation Service Based on Electric Energy Usage Prediction Model.
     * Development of a sensor-based mental ward symptom exacerbation detection model.
+  
 * Gachon univ (2017/03 ~ 2023/02)
   * Healthcare Managment (Major)
   * Computer Science (Double Major)
