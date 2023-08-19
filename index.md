@@ -12,8 +12,8 @@ I wrote "about me", "career", and "interests" on this page as an example.
 # Career
 * Cognative Computing Lab (2022.04 ~ 2023.04)
   * AI researcher
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
+    * Development of Demand Transfer Recommendation Service Based on Electric Energy Usage Prediction Model.
+    * Development of a sensor-based mental ward symptom exacerbation detection model.
 * Gachon univ (2017/03 ~ 2023/02)
   * Healthcare Managment (Major)
   * Computer Science (Double Major)
