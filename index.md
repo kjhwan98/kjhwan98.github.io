@@ -10,13 +10,13 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
+* Cognative Computing Lab (2022.04 ~ 2023.04)
+  * AI researcher
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* Gachon univ (2017/03 ~ 2023/02)
+  * Healthcare Managment (Major)
+  * Computer Science (Double Major)
 
 <br/>
 
