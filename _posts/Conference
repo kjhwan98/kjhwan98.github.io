@@ -1,23 +1,11 @@
 ---
 layout: post
-title:  "Create AP theme"
-info: "Create About/Portfolio theme"
-tech : "ruby, jekyll"
+title:  "Conference"
+info: "참여 컨퍼런스"
 type: Toy
 ---
 
-## Create AP theme
-This is about the ap project.  
-I had a management page for my career.  
-But this time, I decided to change to the github page.  
-By the way, I did not have a favorite theme, so I customized it myself.  
+## Conference No.1
+### 인터넷 정보학회 추계학술 대회
+- 에너지수요이전을 위한 에너지사용예측 모델 연구
 
-
-## Tech
-Now that I have a github page, I need to know ruby and jekyll.  
-And, html, js, css or so?  
-
-
-## Duration
-It did not take long to change the existing theme.  
-I made it by modifying the ["tale"](https://github.com/chesterhow/tale) theme.  
