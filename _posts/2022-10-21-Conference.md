@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conference 1"
-info: "참여 컨퍼런스"
+info: "학술대회"
 tech: "python"
 type: G
 ---
