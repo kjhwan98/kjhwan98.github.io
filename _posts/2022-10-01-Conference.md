@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "인터넷 정보학회"
-info: "학술대회"
+title: "학술대회 참여"
+info: "인터넷 정보학회"
 tech: "python"
 type: G
 ---
