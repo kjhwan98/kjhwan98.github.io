@@ -10,12 +10,12 @@ My goal is to develop a system that maximizes benefits for users and make my tec
 <br/>
 
 # Career
-* User eXperience Computing Lab (2023/09 ~)
+* User eXperience Computing Lab (2023/09 ~) [이동](https://skpark-khu.github.io/)
  
 * Kyunghee univ (2023/09 ~ )
    * Software Convergence (Master's course)
 
-* Cognative Computing Lab (2022.04 ~ 2023.04)
+* Cognative Computing Lab (2022.04 ~ 2023.04) [이동](https://sites.google.com/view/keylee/main?authuser=0)
   * Development of Demand Transfer Recommendation Service Based on Electric Energy Usage Prediction Model.
   * Development of a sensor-based mental ward symptom exacerbation detection model.
   
