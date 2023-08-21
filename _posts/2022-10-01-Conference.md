@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conference 1"
+title: "인터넷 정보학회"
 info: "학술대회"
 tech: "python"
 type: G
