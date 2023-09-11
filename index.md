@@ -14,6 +14,7 @@ My goal is to develop a system that maximizes benefits for users and make my tec
  
 * Kyunghee univ (2023/09 ~ )
    * Software Convergence (Master's course)
+   * What I Study [Visit](https://www.notion.so/ee8be8aefd8342a9b0c9932f89405be6)
 
 * Cognative Computing Lab (2022.04 ~ 2023.04) [Visit](https://sites.google.com/view/keylee/main?authuser=0)
   * Development of Demand Transfer Recommendation Service Based on Electric Energy Usage Prediction Model.
@@ -26,5 +27,5 @@ My goal is to develop a system that maximizes benefits for users and make my tec
 <br/>
 
 # Interests
-I am interested in machine learning and deep learning research through Python. Not only that, but also new trending technologies.
+I am interested in machine learning and deep learning and applying it to Human Computer Interection.
 I developed adaptability through challenging experiences and grew up using failure as a lesson. Every time I gained experience, I was able to broaden my horizons and improve my skills.
