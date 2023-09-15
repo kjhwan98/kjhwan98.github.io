@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "학술대회 참여"
-info: "인터넷 정보학회"
+info: "KSII"
 tech: "python"
 type: G
 ---
