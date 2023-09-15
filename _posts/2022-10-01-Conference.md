@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "학술대회 참여"
-info: "KSII"
+title: "KSII 학술대회 참여"
+info: "시계열 예측 모델 연구"
 tech: "python"
 type: G
 ---
