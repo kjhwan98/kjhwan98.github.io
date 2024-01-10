@@ -11,7 +11,7 @@ My goal is to develop a system that maximizes benefits for users and make my tec
 
 # Career
 * User eXperience Computing Lab (2023/09 ~) [Visit](https://skpark-khu.github.io/)
- * Development of Interaction Receptivity Prediction Model and System based on Understanding of Users’ Context using Mobile Sensing.
+  * Development of Interaction Receptivity Prediction Model and System based on Understanding of Users’ Context using Mobile Sensing.
   
 * Kyunghee univ (2023/09 ~ )
    * Software Convergence (Master's course)
