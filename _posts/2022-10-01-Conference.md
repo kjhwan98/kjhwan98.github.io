@@ -9,6 +9,7 @@ type: G
 ## Conference No.1
 ### 인터넷 정보학회 추계학술 대회 (2022.10)
 주제: 에너지수요이전을 위한 에너지사용예측 모델 연구<br/>
+[발표논문](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INME&mode=total&searchCate=[…]4Jm1vcmU9WSZyZXNlYXJjaD1ZJnJlX3ExPSZwZz0xNw==&q1=%BF%AC%B1%B8)
 <br/> 
 <img src = "https://github.com/kjhwan98/kjhwan98.github.io/assets/104756502/092c8968-a493-4345-9e99-db8feeba7891" width="600" height="400"/>
 
