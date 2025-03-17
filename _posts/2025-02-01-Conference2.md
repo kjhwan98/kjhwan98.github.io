@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "학술대회 참여"
+title: "학술대회 참여2"
 info: "HCI Korea"
 tech: "kotlin, sql, python"
 type: K
