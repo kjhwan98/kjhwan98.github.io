@@ -4,7 +4,6 @@ layout: about
 
 # About Me
 I am interested in data science. In particular, I would like to do research on intelligent systems.
-I started coding late, so I'm still lacking in skills, but I'm studying with passion and responsibility.
 My goal is to develop a system that maximizes benefits for users and make my technology a service. 
 
 <br/>
